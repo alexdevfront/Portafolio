@@ -34,7 +34,7 @@ window.addEventListener('scroll',()=>{
 const enlace = document.getElementById("micv");
      enlace.href="#";
      enlace.addEventListener('click', function(){
-        window.open('./doc/t.pdf','_blank');
+        window.open('./doc/Alex Front End.pdf','_blank');
      });
 
 
